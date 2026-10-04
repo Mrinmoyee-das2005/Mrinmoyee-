@@ -1,0 +1,1 @@
+ALTER TABLE EMP_trainee DROP COLUMN Age;
