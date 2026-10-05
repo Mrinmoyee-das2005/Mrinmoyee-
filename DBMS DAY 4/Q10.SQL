@@ -1,0 +1,1 @@
+SELECT Fname || ' ' || Lname || ' stays in ' || Area || ' and his phone number is ' || Phone AS Details FROM Customer;

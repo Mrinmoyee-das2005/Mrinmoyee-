@@ -1,0 +1,1 @@
+SELECT * FROM Customer WHERE Area LIKE '%A%' OR Area LIKE '%a%';

@@ -1,0 +1,1 @@
+INSERT INTO Movie VALUES (10, 999, 'Test', 'JC', 150); 

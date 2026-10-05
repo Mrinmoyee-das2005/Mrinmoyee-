@@ -1,0 +1,1 @@
+SELECT Title, Price, Price*1.10 AS Increased_Price FROM Movie;

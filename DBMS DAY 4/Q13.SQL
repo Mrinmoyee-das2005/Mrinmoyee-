@@ -1,0 +1,1 @@
+UPDATE Customer SET Phone = 9876543 WHERE Fname = 'Ravi';

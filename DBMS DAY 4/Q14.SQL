@@ -1,0 +1,1 @@
+SELECT DISTINCT Cust_id FROM Movie;

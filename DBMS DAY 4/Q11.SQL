@@ -1,0 +1,2 @@
+
+INSERT INTO EMPLOYEE VALUES (201, 'Hartstein', 'IT_PROG', 6000, 'null', 100, 20);

@@ -1,0 +1,1 @@
+SELECT Cust_id FROM Movie WHERE Star IN ('JC','TC','MC');
