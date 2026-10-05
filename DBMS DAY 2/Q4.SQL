@@ -1,0 +1,9 @@
+CREATE TABLE EMP_trainee (
+  Emp_id NUMBER(2),
+  Name VARCHAR2(15),
+  Basic NUMBER(6),
+  Designation VARCHAR2(10),
+  Age NUMBER(2)
+);
+CREATE TABLE EMP_trainee AS SELECT * FROM EMP1 WHERE 1=0;
+ALTER TABLE EMP_trainee RENAME COLUMN ID TO Emp_id;

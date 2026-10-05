@@ -1,0 +1,1 @@
+TRUNCATE TABLE EMP_Mgr_Engr;

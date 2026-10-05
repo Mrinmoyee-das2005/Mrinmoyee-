@@ -1,0 +1,1 @@
+UPDATE EMP1 SET Basic = Basic + 500 WHERE Designation = 'Trainee';
