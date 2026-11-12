@@ -1,0 +1,1 @@
+SELECT MAX(SAL) - MIN(SAL) AS [Difference] FROM EMP;

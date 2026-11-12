@@ -1,0 +1,1 @@
+SELECT FIRST_NAME + ' whose designation is ' + JOB_ID + ' gets ' + CAST(SAL AS VARCHAR) + ' but wants to earn ' + CAST(SAL*3 AS VARCHAR) AS [Details] FROM EMP;

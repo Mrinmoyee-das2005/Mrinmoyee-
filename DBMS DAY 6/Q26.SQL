@@ -1,0 +1,1 @@
+SELECT DATEADD(DAY, 15, GETDATE()) AS [After 15 Days], DATEADD(DAY, -15, GETDATE()) AS [Before 15 Days];

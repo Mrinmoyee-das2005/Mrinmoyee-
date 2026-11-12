@@ -1,0 +1,1 @@
+SELECT MAX(SAL) AS [Max], MIN(SAL) AS [Min], AVG(SAL) AS [Avg], SUM(SAL) AS [Sum] FROM EMP;
