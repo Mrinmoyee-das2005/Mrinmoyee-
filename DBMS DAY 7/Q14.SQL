@@ -1,0 +1,1 @@
+SELECT Salary % 3000 AS [Remainder] FROM Employee_Details WHERE Job_id = 'SA_REP';

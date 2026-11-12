@@ -1,0 +1,1 @@
+SELECT Dept_id, Salary, Hire_Date FROM Employee_Details WHERE LEN(First_Name) = 6;

@@ -1,0 +1,1 @@
+SELECT SUBSTRING(Job_id,1,2) + '_' + SUBSTRING(Job_id,4, LEN(Job_id)) AS [Job Format] FROM Employee_Details;

@@ -1,0 +1,1 @@
+SELECT First_Name + ' ' + Last_Name AS [Name], LEN(Last_Name) AS [Length], CHARINDEX('a', Last_Name) AS [Pos_a] FROM Employee_Details WHERE Job_id LIKE '%CLERK%';

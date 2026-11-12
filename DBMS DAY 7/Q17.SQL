@@ -1,0 +1,1 @@
+SELECT Last_Name, ISNULL(CAST(Comm_Pct AS VARCHAR), 'No Commission') AS [COMM] FROM Employee_Details;

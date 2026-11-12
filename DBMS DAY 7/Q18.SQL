@@ -1,0 +1,1 @@
+SELECT First_Name, ROUND(CAST(DATEDIFF(DAY, Hire_Date, GETDATE()) AS FLOAT),0) AS [Days] FROM Employee_Details;

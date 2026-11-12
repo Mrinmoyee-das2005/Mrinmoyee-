@@ -1,0 +1,1 @@
+SELECT FORMAT(Salary, '$#,##0.00') AS [Salary] FROM Employee_Details;

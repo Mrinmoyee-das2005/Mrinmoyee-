@@ -1,0 +1,1 @@
+SELECT First_Name, (Salary*12) + ISNULL(Comm_Pct,0) AS [Annual], ROUND((Salary*12) + ISNULL(Comm_Pct,0), 2) AS [Rounded Annual] FROM Employee_Details;

@@ -1,0 +1,1 @@
+SELECT First_Name, CHARINDEX('a', First_Name) AS [Position] FROM Employee_Details;
