@@ -1,0 +1,1 @@
+SELECT M.Movie_no FROM Movie M LEFT JOIN Invoice I ON M.Movie_no = I.Movie_no WHERE I.Movie_no IS NULL;
