@@ -1,0 +1,1 @@
+DELETE FROM Client_Master WHERE Client_no = 'C02';

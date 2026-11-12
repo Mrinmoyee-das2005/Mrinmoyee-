@@ -1,0 +1,1 @@
+DELETE FROM Products_Master WHERE Sell_price BETWEEN 1000 AND 10000;

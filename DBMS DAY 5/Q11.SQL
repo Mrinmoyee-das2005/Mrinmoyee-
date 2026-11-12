@@ -1,0 +1,1 @@
+SELECT * FROM Sales_Order WHERE S_order_date > '31-JAN-96';

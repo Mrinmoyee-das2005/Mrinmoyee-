@@ -1,0 +1,1 @@
+UPDATE Client_Master SET City = 'Kolkata' WHERE Client_no = 'C05';

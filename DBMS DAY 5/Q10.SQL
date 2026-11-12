@@ -1,0 +1,1 @@
+SELECT * FROM Client_Master WHERE State IS NULL;

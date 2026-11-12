@@ -1,0 +1,2 @@
+ALTER TABLE Client_Master ALTER COLUMN Client_no VARCHAR(15);
+ALTER TABLE Sales_Order ALTER COLUMN Client_no VARCHAR(15);
