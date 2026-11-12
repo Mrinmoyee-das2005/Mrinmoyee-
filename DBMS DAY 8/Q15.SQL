@@ -1,0 +1,1 @@
+SELECT MAX(Sports_fee) AS [Max], MIN(Sports_fee) AS [Min], AVG(Sports_fee) AS [Avg] FROM Sports_Stud;

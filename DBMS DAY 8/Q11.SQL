@@ -1,0 +1,1 @@
+SELECT Name + ' who studies in ' + Dept + ' dept pays Rs' + CAST(Sports_fee AS VARCHAR) + ' for sports.' AS [Details] FROM Sports_Stud;

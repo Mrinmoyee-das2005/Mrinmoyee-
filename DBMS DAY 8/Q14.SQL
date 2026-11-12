@@ -1,0 +1,4 @@
+ALTER TABLE Sports_Stud DROP CONSTRAINT CK__Sports_Stud__Dept__12345678;
+ALTER TABLE Sports_Stud DROP CONSTRAINT CK__Sports_Stud__Sports_fee__12345678;
+ALTER TABLE Cultural_Stud DROP CONSTRAINT CK__Cultural_Stud__Dept__12345678;
+ALTER TABLE Cultural_Stud DROP CONSTRAINT CK__Cultural_Stud__Cultural_fee__12345678;
